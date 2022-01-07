@@ -1,3 +1,4 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 # Movies & Data Science
 
 A indústria do cinema está morrendo? Netflix é o novo rei do entretenimento? Essas foram as primeiras perguntas que me levaram a criar um conjunto de dados
