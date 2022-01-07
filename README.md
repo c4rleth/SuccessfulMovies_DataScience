@@ -15,6 +15,6 @@ Esses dados foram retirados do IMDb.
 * Explorando os dados e criando graficos para visualização, como Histogramas, HeatMap e BoxPlots.
 * Mapeando as variaveis qualitativas para dar inicio ao Machine Learning.
 * Criando um Clusterizador para descobrir um padrão de filmes bons ou ruins com base em bilheteria x orçamento.
-* Usamos o Kmeans para calcular a melhor quantidades de clusters.
+* Usamos o Kmeans para calcular a melhor quantidade de clusters.
 * Definimos 3 métricas para calcular a qualidade dos dados (Coeficiente de Silhouette, Fórumula de Davies-Bouldin e de Calinski Harabasz).
 * Por fim, testando uma nova amostra usando um classificador (Linear SVM) para medir a precisão dos dados gerados pela clusterização.
